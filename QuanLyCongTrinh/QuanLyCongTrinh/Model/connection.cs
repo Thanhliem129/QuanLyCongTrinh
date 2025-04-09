@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using System.Data.SqlClient;
 
-namespace WebApplication1.Model
+namespace QuanLyCongTrinh.Model
 {
     public class connection
 

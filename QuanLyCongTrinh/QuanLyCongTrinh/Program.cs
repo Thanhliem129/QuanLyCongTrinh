@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using WebApplication1.Model;
+using QuanLyCongTrinh.Model;
 
 var builder = WebApplication.CreateBuilder(args);
 

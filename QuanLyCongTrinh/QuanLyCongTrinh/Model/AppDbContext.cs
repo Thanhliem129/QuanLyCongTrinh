@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace WebApplication1.Model
+namespace QuanLyCongTrinh.Model
 {
     public class AppDbContext : DbContext
     {

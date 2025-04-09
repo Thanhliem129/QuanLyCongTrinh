@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Angular\\QuanLyCongTrinh\\QuanLyCongTrinh\\",
+  "WorkspaceRootPath": "D:\\Angular\\QLCVSamCom\\QuanLyCongTrinh\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59718854-7C1A-4125-B0F0-DA06AC42B61A}|QuanLyCongTrinh\\QuanLyCongTrinh.csproj|d:\\angular\\quanlycongtrinh\\quanlycongtrinh\\quanlycongtrinh\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59718854-7C1A-4125-B0F0-DA06AC42B61A}|QuanLyCongTrinh\\QuanLyCongTrinh.csproj|d:\\angular\\qlcvsamcom\\quanlycongtrinh\\quanlycongtrinh\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59718854-7C1A-4125-B0F0-DA06AC42B61A}|QuanLyCongTrinh\\QuanLyCongTrinh.csproj|solutionrelative:quanlycongtrinh\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59718854-7C1A-4125-B0F0-DA06AC42B61A}|QuanLyCongTrinh\\QuanLyCongTrinh.csproj|d:\\angular\\qlcvsamcom\\quanlycongtrinh\\quanlycongtrinh\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59718854-7C1A-4125-B0F0-DA06AC42B61A}|QuanLyCongTrinh\\QuanLyCongTrinh.csproj|solutionrelative:quanlycongtrinh\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59718854-7C1A-4125-B0F0-DA06AC42B61A}|QuanLyCongTrinh\\QuanLyCongTrinh.csproj|d:\\angular\\qlcvsamcom\\quanlycongtrinh\\quanlycongtrinh\\model\\thamso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59718854-7C1A-4125-B0F0-DA06AC42B61A}|QuanLyCongTrinh\\QuanLyCongTrinh.csproj|solutionrelative:quanlycongtrinh\\model\\thamso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59718854-7C1A-4125-B0F0-DA06AC42B61A}|QuanLyCongTrinh\\QuanLyCongTrinh.csproj|d:\\angular\\qlcvsamcom\\quanlycongtrinh\\quanlycongtrinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59718854-7C1A-4125-B0F0-DA06AC42B61A}|QuanLyCongTrinh\\QuanLyCongTrinh.csproj|solutionrelative:quanlycongtrinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59718854-7C1A-4125-B0F0-DA06AC42B61A}|QuanLyCongTrinh\\QuanLyCongTrinh.csproj|d:\\angular\\qlcvsamcom\\quanlycongtrinh\\quanlycongtrinh\\model\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59718854-7C1A-4125-B0F0-DA06AC42B61A}|QuanLyCongTrinh\\QuanLyCongTrinh.csproj|solutionrelative:quanlycongtrinh\\model\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThamSo.cs",
+              "DocumentMoniker": "D:\\Angular\\QLCVSamCom\\QuanLyCongTrinh\\QuanLyCongTrinh\\Model\\ThamSo.cs",
+              "RelativeDocumentMoniker": "QuanLyCongTrinh\\Model\\ThamSo.cs",
+              "ToolTip": "D:\\Angular\\QLCVSamCom\\QuanLyCongTrinh\\QuanLyCongTrinh\\Model\\ThamSo.cs",
+              "RelativeToolTip": "QuanLyCongTrinh\\Model\\ThamSo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:05:38.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Angular\\QLCVSamCom\\QuanLyCongTrinh\\QuanLyCongTrinh\\Model\\Database.cs",
+              "RelativeDocumentMoniker": "QuanLyCongTrinh\\Model\\Database.cs",
+              "ToolTip": "D:\\Angular\\QLCVSamCom\\QuanLyCongTrinh\\QuanLyCongTrinh\\Model\\Database.cs",
+              "RelativeToolTip": "QuanLyCongTrinh\\Model\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:58:49.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Angular\\QLCVSamCom\\QuanLyCongTrinh\\QuanLyCongTrinh\\Model\\User.cs",
+              "RelativeDocumentMoniker": "QuanLyCongTrinh\\Model\\User.cs",
+              "ToolTip": "D:\\Angular\\QLCVSamCom\\QuanLyCongTrinh\\QuanLyCongTrinh\\Model\\User.cs",
+              "RelativeToolTip": "QuanLyCongTrinh\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:57:44.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Angular\\QLCVSamCom\\QuanLyCongTrinh\\QuanLyCongTrinh\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyCongTrinh\\Program.cs",
+              "ToolTip": "D:\\Angular\\QLCVSamCom\\QuanLyCongTrinh\\QuanLyCongTrinh\\Program.cs",
+              "RelativeToolTip": "QuanLyCongTrinh\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:55:37.392Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Angular\\QuanLyCongTrinh\\QuanLyCongTrinh\\QuanLyCongTrinh\\Controllers\\UserController.cs",
+              "DocumentMoniker": "D:\\Angular\\QLCVSamCom\\QuanLyCongTrinh\\QuanLyCongTrinh\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "QuanLyCongTrinh\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Angular\\QuanLyCongTrinh\\QuanLyCongTrinh\\QuanLyCongTrinh\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Angular\\QLCVSamCom\\QuanLyCongTrinh\\QuanLyCongTrinh\\Controllers\\UserController.cs",
               "RelativeToolTip": "QuanLyCongTrinh\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAyAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAiwGcAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T16:43:53.584Z",
               "EditorCaption": ""

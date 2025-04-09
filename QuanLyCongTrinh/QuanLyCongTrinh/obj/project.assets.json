@@ -3456,11 +3456,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Angular\\QuanLyCongTrinh\\QuanLyCongTrinh\\QuanLyCongTrinh\\QuanLyCongTrinh.csproj",
+      "projectUniqueName": "D:\\Angular\\QLCVSamCom\\QuanLyCongTrinh\\QuanLyCongTrinh\\QuanLyCongTrinh.csproj",
       "projectName": "QuanLyCongTrinh",
-      "projectPath": "D:\\Angular\\QuanLyCongTrinh\\QuanLyCongTrinh\\QuanLyCongTrinh\\QuanLyCongTrinh.csproj",
+      "projectPath": "D:\\Angular\\QLCVSamCom\\QuanLyCongTrinh\\QuanLyCongTrinh\\QuanLyCongTrinh.csproj",
       "packagesPath": "C:\\Users\\Liem\\.nuget\\packages\\",
-      "outputPath": "D:\\Angular\\QuanLyCongTrinh\\QuanLyCongTrinh\\QuanLyCongTrinh\\obj\\",
+      "outputPath": "D:\\Angular\\QLCVSamCom\\QuanLyCongTrinh\\QuanLyCongTrinh\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Liem\\AppData\\Roaming\\NuGet\\NuGet.Config",
